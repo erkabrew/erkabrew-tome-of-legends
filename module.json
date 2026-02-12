@@ -1,0 +1,40 @@
+{
+  "id": "erkabrew-tome-of-legends",
+  "title": "Erkabrew Tome of Legends",
+  "version": "0.1.0",
+  "url": "https://github.com/erkabrew/erkabrew-tome-of-legends",
+  "manifest": "https://raw.githubusercontent.com/erkabrew/erkabrew-tome-of-legends/refs/heads/main/module.json",
+  "download": "https://github.com/erkabrew/erkabrew-tome-of-legends/archive/refs/heads/main.zip",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "champions",
+      "label": "Champions",
+      "path": "packs/champions",
+      "type": "Actor",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    },
+    {
+      "name": "Summons",
+      "label": "Summons",
+      "path": "packs/Summons",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
+    }
+  ],
+  "description": ""
+}
