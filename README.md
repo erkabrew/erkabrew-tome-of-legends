@@ -6,4 +6,4 @@ This module, "Erkabrew Tome of Legends", is unofficial Fan Content under the Leg
 Portions of the materials used (including Assets, tokens, icons, and some mechanics) are property of ©Riot Games.
 
 ## Installation
-The Instalation link of the latest version of the module is: https://raw.githubusercontent.com/erkabrew/erkabrew-tome-of-legends/refs/heads/main/module.json
+The Instalation link of the latest version of the module is: `https://raw.githubusercontent.com/erkabrew/erkabrew-tome-of-legends/refs/heads/main/module.json`
