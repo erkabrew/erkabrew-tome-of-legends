@@ -14,9 +14,9 @@
   },
   "packs": [
     {
-      "name": "champions",
+      "name": "Champions",
       "label": "Champions",
-      "path": "packs/champions",
+      "path": "packs/Champions",
       "type": "Actor",
       "system": "dnd5e",
       "ownership": {
@@ -36,6 +36,34 @@
       }
     }
   ],
+  "packFolders": [
+    {
+      "name": "Erkabrew Tome of Legends",
+      "sorting": "a",
+      "color": "#175453",
+      "packs": [],
+      "folders": [
+        {
+          "name": "Content",
+          "sorting": "a",
+          "color": "#287775",
+          "packs": [
+            "Champions",
+            "Summons"
+          ]
+        }
+      ]
+    }
+  ],
+  "media": [
+    {
+      "type": "setup",
+      "url": "modules/erkabrew-tome-of-legends/assets/Thumbnail.webp",
+      "thumbnail": "modules/erkabrew-tome-of-legends/assets/Thumbnail.webp",
+      "loop": false,
+      "flags": {}
+    }
+  ],
   "relationships": {
     "requires": [
       {
@@ -45,5 +73,5 @@
       }
     ]
   },
-  "description": ""
+  "description": "A module for FoundryVTT which brings all the legends from League of Legends to DND."
 }
