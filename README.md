@@ -1,3 +1,5 @@
+![Thumbnail](https://github.com/user-attachments/assets/e142ab56-3617-43bf-962e-66706d3c2d6a)
+
 # Erkabrew Tome of Legends
 
 A module for FoundryVTT which brings all the legends from League of Legends to DND
