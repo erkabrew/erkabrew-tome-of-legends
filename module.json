@@ -1,7 +1,7 @@
 {
   "id": "erkabrew-tome-of-legends",
   "title": "Erkabrew Tome of Legends",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "url": "https://github.com/erkabrew/erkabrew-tome-of-legends",
   "manifest": "https://raw.githubusercontent.com/erkabrew/erkabrew-tome-of-legends/refs/heads/main/module.json",
   "download": "https://github.com/erkabrew/erkabrew-tome-of-legends/archive/refs/heads/main.zip",
