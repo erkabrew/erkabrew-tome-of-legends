@@ -1,12 +1,5 @@
-2026/02/27-12:20:29.324 46e0 Recovering log #193
-2026/02/27-12:20:29.328 46e0 Level-0 table #195: started
-2026/02/27-12:20:29.336 46e0 Level-0 table #195: 336511 bytes OK
-2026/02/27-12:20:29.340 46e0 Delete type=0 #193
-2026/02/27-12:20:29.340 46e0 Delete type=3 #192
-2026/02/27-12:20:36.388 29e0 Moved #195 to level-1 336511 bytes OK: files[ 0 1 1 0 0 0 0 ]
-2026/02/27-12:26:13.204 29e0 Compacting 1@1 + 1@2 files
-2026/02/27-12:26:13.212 29e0 Generated table #197@1: 221 keys, 282864 bytes
-2026/02/27-12:26:13.212 29e0 Compacted 1@1 + 1@2 files => 282864 bytes
-2026/02/27-12:26:13.213 29e0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/02/27-12:26:13.213 29e0 Delete type=2 #189
-2026/02/27-12:26:13.213 29e0 Delete type=2 #195
+2026/03/02-14:28:36.536 1934 Log #229: 0 ops saved to Table #233 OK
+2026/03/02-14:28:36.536 1934 Archiving C:\Users\danie\AppData\Local\FoundryVTT\Data\modules\erkabrew-tome-of-legends\packs\Champions/000229.log: OK
+2026/03/02-14:28:36.538 1934 Table #232: 245 entries OK
+2026/03/02-14:28:36.539 1934 Archiving C:\Users\danie\AppData\Local\FoundryVTT\Data\modules\erkabrew-tome-of-legends\packs\Champions/MANIFEST-000226: OK
+2026/03/02-14:28:36.542 1934 **** Repaired leveldb C:\Users\danie\AppData\Local\FoundryVTT\Data\modules\erkabrew-tome-of-legends\packs\Champions; recovered 1 files; 319883 bytes. Some data may have been lost. ****
