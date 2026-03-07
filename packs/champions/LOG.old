@@ -1,5 +1,11 @@
-2026/03/02-14:28:36.536 1934 Log #229: 0 ops saved to Table #233 OK
-2026/03/02-14:28:36.536 1934 Archiving C:\Users\danie\AppData\Local\FoundryVTT\Data\modules\erkabrew-tome-of-legends\packs\Champions/000229.log: OK
-2026/03/02-14:28:36.538 1934 Table #232: 245 entries OK
-2026/03/02-14:28:36.539 1934 Archiving C:\Users\danie\AppData\Local\FoundryVTT\Data\modules\erkabrew-tome-of-legends\packs\Champions/MANIFEST-000226: OK
-2026/03/02-14:28:36.542 1934 **** Repaired leveldb C:\Users\danie\AppData\Local\FoundryVTT\Data\modules\erkabrew-tome-of-legends\packs\Champions; recovered 1 files; 319883 bytes. Some data may have been lost. ****
+2026/03/07-09:05:12.733 2398 Recovering log #260
+2026/03/07-09:05:12.736 2398 Level-0 table #262: started
+2026/03/07-09:05:12.743 2398 Level-0 table #262: 364264 bytes OK
+2026/03/07-09:05:12.746 2398 Delete type=0 #260
+2026/03/07-09:05:12.746 2398 Delete type=3 #259
+2026/03/07-09:05:19.120 774 Compacting 1@0 + 1@1 files
+2026/03/07-09:05:19.130 774 Generated table #264@0: 266 keys, 348968 bytes
+2026/03/07-09:05:19.130 774 Compacted 1@0 + 1@1 files => 348968 bytes
+2026/03/07-09:05:19.131 774 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/07-09:05:19.131 774 Delete type=2 #238
+2026/03/07-09:05:19.131 774 Delete type=2 #262

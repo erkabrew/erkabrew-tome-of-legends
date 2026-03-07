@@ -1,5 +1,3 @@
-2026/03/02-14:28:36.568 1934 Log #173: 0 ops saved to Table #174 OK
-2026/03/02-14:28:36.568 1934 Archiving C:\Users\danie\AppData\Local\FoundryVTT\Data\modules\erkabrew-tome-of-legends\packs\Summons/000173.log: OK
-2026/03/02-14:28:36.570 1934 Table #136: 8 entries OK
-2026/03/02-14:28:36.571 1934 Archiving C:\Users\danie\AppData\Local\FoundryVTT\Data\modules\erkabrew-tome-of-legends\packs\Summons/MANIFEST-000171: OK
-2026/03/02-14:28:36.573 1934 **** Repaired leveldb C:\Users\danie\AppData\Local\FoundryVTT\Data\modules\erkabrew-tome-of-legends\packs\Summons; recovered 1 files; 17586 bytes. Some data may have been lost. ****
+2026/03/07-09:05:12.769 23a8 Recovering log #201
+2026/03/07-09:05:12.772 23a8 Delete type=0 #201
+2026/03/07-09:05:12.772 23a8 Delete type=3 #200

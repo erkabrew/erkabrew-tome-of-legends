@@ -1,1 +1,15 @@
-2026/03/02-14:28:36.555 1934 Delete type=3 #1
+2026/03/07-13:02:12.461 3ac Recovering log #263
+2026/03/07-13:02:12.462 3ac Level-0 table #266: started
+2026/03/07-13:02:12.469 3ac Level-0 table #266: 326371 bytes OK
+2026/03/07-13:02:12.472 3ac Delete type=0 #263
+2026/03/07-13:02:12.472 3ac Delete type=3 #261
+2026/03/07-13:02:18.479 b10 Compacting 1@0 + 1@1 files
+2026/03/07-13:02:18.488 b10 Generated table #268@0: 269 keys, 354000 bytes
+2026/03/07-13:02:18.488 b10 Compacted 1@0 + 1@1 files => 354000 bytes
+2026/03/07-13:02:18.488 b10 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/03/07-13:02:18.488 b10 Delete type=2 #264
+2026/03/07-13:02:18.489 b10 Delete type=2 #266
+2026/03/07-13:03:36.999 b10 Level-0 table #270: started
+2026/03/07-13:03:36.999 b10 Level-0 table #270: 0 bytes OK
+2026/03/07-13:03:36.999 b10 Delete type=0 #267
+2026/03/07-13:03:37.002 b10 Manual compaction at level-0 from '!actors!E17yrAEtVExfT5ZH' @ 72057594037927935 : 1 .. '!folders!nDEjXpJEFZD7allG' @ 0 : 0; will stop at (end)
