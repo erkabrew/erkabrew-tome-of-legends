@@ -1,7 +1,7 @@
 {
   "id": "erkabrew-tome-of-legends",
   "title": "Erkabrew Tome of Legends",
-  "version": "0.10.0",
+  "version": "0.10.2",
   "url": "https://github.com/erkabrew/erkabrew-tome-of-legends",
   "manifest": "https://raw.githubusercontent.com/erkabrew/erkabrew-tome-of-legends/refs/heads/main/module.json",
   "download": "https://github.com/erkabrew/erkabrew-tome-of-legends/archive/refs/heads/main.zip",
@@ -34,6 +34,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "Journal",
+      "label": "Journal",
+      "path": "packs/Journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "packFolders": [
@@ -49,7 +60,8 @@
           "color": "#287775",
           "packs": [
             "Champions",
-            "Summons"
+            "Summons",
+            "Journal"
           ],
           "folders": []
         }
