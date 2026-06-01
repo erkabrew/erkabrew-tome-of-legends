@@ -1,10 +1,22 @@
-2026/05/25-08:38:41.729 158 Recovering log #790
-2026/05/25-08:38:41.731 158 Delete type=2 #693
-2026/05/25-08:38:41.731 158 Delete type=0 #787
-2026/05/25-08:38:41.731 158 Delete type=0 #790
-2026/05/25-08:38:41.732 158 Delete type=3 #786
-2026/05/25-08:38:41.732 158 Delete type=3 #788
-2026/05/25-08:38:49.122 43b0 Level-0 table #796: started
-2026/05/25-08:38:49.124 43b0 Level-0 table #796: 0 bytes OK
-2026/05/25-08:38:49.124 43b0 Delete type=0 #794
-2026/05/25-08:38:49.125 43b0 Manual compaction at level-0 from '!actors!E17yrAEtVExfT5ZH' @ 72057594037927935 : 1 .. '!folders!nDEjXpJEFZD7allG' @ 0 : 0; will stop at (end)
+2026/06/01-11:12:54.980 16d8 Recovering log #887
+2026/06/01-11:12:54.982 16d8 Level-0 table #889: started
+2026/06/01-11:12:54.993 16d8 Level-0 table #889: 673162 bytes OK
+2026/06/01-11:12:54.996 16d8 Delete type=0 #887
+2026/06/01-11:12:54.996 16d8 Delete type=3 #886
+2026/06/01-11:13:01.863 1118 Compacting 1@0 + 1@1 files
+2026/06/01-11:13:01.884 1118 Generated table #891@0: 523 keys, 725271 bytes
+2026/06/01-11:13:01.885 1118 Compacted 1@0 + 1@1 files => 725271 bytes
+2026/06/01-11:13:01.885 1118 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/01-11:13:01.885 1118 Delete type=2 #883
+2026/06/01-11:13:01.886 1118 Delete type=2 #889
+2026/06/01-11:38:48.909 1118 Level-0 table #893: started
+2026/06/01-11:38:48.916 1118 Level-0 table #893: 114901 bytes OK
+2026/06/01-11:38:48.917 1118 Delete type=0 #890
+2026/06/01-11:38:48.922 1118 Manual compaction at level-0 from '!actors!5SXJWPJM1adUz4Rb' @ 72057594037927935 : 1 .. '!folders!nDEjXpJEFZD7allG' @ 0 : 0; will stop at '!actors.items.effects!y9ctmjxuMOf98vyg.GwsWKK4Luq1MGBZg.wo4hkU20eveFsqfx' @ 7713 : 1
+2026/06/01-11:38:48.922 1118 Compacting 1@0 + 1@1 files
+2026/06/01-11:38:48.939 1118 Generated table #894@0: 523 keys, 725526 bytes
+2026/06/01-11:38:48.939 1118 Compacted 1@0 + 1@1 files => 725526 bytes
+2026/06/01-11:38:48.939 1118 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/06/01-11:38:48.940 1118 Delete type=2 #891
+2026/06/01-11:38:48.940 1118 Delete type=2 #893
+2026/06/01-11:38:48.940 1118 Manual compaction at level-0 from '!actors.items.effects!y9ctmjxuMOf98vyg.GwsWKK4Luq1MGBZg.wo4hkU20eveFsqfx' @ 7713 : 1 .. '!folders!nDEjXpJEFZD7allG' @ 0 : 0; will stop at (end)
