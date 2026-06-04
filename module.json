@@ -1,7 +1,7 @@
 {
   "id": "erkabrew-tome-of-legends",
   "title": "Erkabrew Tome of Legends",
-  "version": "0.12.1",
+  "version": "0.12.2",
   "url": "https://github.com/erkabrew/erkabrew-tome-of-legends",
   "manifest": "https://raw.githubusercontent.com/erkabrew/erkabrew-tome-of-legends/refs/heads/main/module.json",
   "download": "https://github.com/erkabrew/erkabrew-tome-of-legends/archive/refs/heads/main.zip",
@@ -45,6 +45,17 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "Creatures",
+      "label": "Creatures",
+      "path": "packs/Creatures",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "dnd5e"
     }
   ],
   "packFolders": [
@@ -55,15 +66,22 @@
       "packs": [],
       "folders": [
         {
-          "name": "Content",
+          "name": "DM Content",
           "sorting": "a",
           "color": "#287775",
           "packs": [
             "Champions",
             "Summons",
-            "Journal"
+            "Journal",
+            "Creatures"
           ],
-          "folders": []
+          "folders": [
+            {
+              "name": "Player's Options",
+              "sorting": "a",
+              "color": "#3c9f9c"
+            }
+          ]
         }
       ]
     }
@@ -86,5 +104,11 @@
       }
     ]
   },
-  "description": "<p>A module for FoundryVTT which brings all the legends from League of Legends to DND.</p>"
+  "description": "<p>A module for FoundryVTT which brings all the legends from League of Legends to DND.</p>",
+  "authors": [
+    {
+      "name": "Erkabrew",
+      "flags": {}
+    }
+  ]
 }
