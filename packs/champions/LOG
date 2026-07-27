@@ -1,14 +1,14 @@
-2026/07/20-08:29:35.164 3ac4 Recovering log #1475
-2026/07/20-08:29:35.166 3ac4 Delete type=0 #1475
-2026/07/20-08:29:35.166 3ac4 Delete type=3 #1473
-2026/07/20-11:45:35.231 4bfc Level-0 table #1481: started
-2026/07/20-11:45:35.234 4bfc Level-0 table #1481: 17596 bytes OK
-2026/07/20-11:45:35.235 4bfc Delete type=0 #1479
-2026/07/20-11:45:35.235 4bfc Manual compaction at level-0 from '!actors!5SXJWPJM1adUz4Rb' @ 72057594037927935 : 1 .. '!folders!nDEjXpJEFZD7allG' @ 0 : 0; will stop at '!actors.items!rdhCqlRC9x8fbptP.oaA1aVkihgwgUW0U' @ 10129 : 1
-2026/07/20-11:45:35.235 4bfc Compacting 1@0 + 1@1 files
-2026/07/20-11:45:35.258 4bfc Generated table #1482@0: 675 keys, 965762 bytes
-2026/07/20-11:45:35.258 4bfc Compacted 1@0 + 1@1 files => 965762 bytes
-2026/07/20-11:45:35.259 4bfc compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/07/20-11:45:35.259 4bfc Delete type=2 #1477
-2026/07/20-11:45:35.259 4bfc Delete type=2 #1481
-2026/07/20-11:45:35.261 4bfc Manual compaction at level-0 from '!actors.items!rdhCqlRC9x8fbptP.oaA1aVkihgwgUW0U' @ 10129 : 1 .. '!folders!nDEjXpJEFZD7allG' @ 0 : 0; will stop at (end)
+2026/07/27-16:50:28.836 1468 Recovering log #1541
+2026/07/27-16:50:28.839 1468 Delete type=0 #1541
+2026/07/27-16:50:28.839 1468 Delete type=3 #1539
+2026/07/27-17:53:33.984 42f8 Level-0 table #1547: started
+2026/07/27-17:53:33.987 42f8 Level-0 table #1547: 114486 bytes OK
+2026/07/27-17:53:33.988 42f8 Delete type=0 #1545
+2026/07/27-17:53:33.990 42f8 Manual compaction at level-0 from '!actors!5SXJWPJM1adUz4Rb' @ 72057594037927935 : 1 .. '!folders!nDEjXpJEFZD7allG' @ 0 : 0; will stop at '!actors.items.effects!RW3cNtHTmu9Rc2u0.oOTb0HHMwAEtyBP5.AnScdd7CZh31C26i' @ 10902 : 1
+2026/07/27-17:53:33.990 42f8 Compacting 1@0 + 1@1 files
+2026/07/27-17:53:34.011 42f8 Generated table #1548@0: 718 keys, 1037209 bytes
+2026/07/27-17:53:34.011 42f8 Compacted 1@0 + 1@1 files => 1037209 bytes
+2026/07/27-17:53:34.012 42f8 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/07/27-17:53:34.012 42f8 Delete type=2 #1543
+2026/07/27-17:53:34.012 42f8 Delete type=2 #1547
+2026/07/27-17:53:34.013 42f8 Manual compaction at level-0 from '!actors.items.effects!RW3cNtHTmu9Rc2u0.oOTb0HHMwAEtyBP5.AnScdd7CZh31C26i' @ 10902 : 1 .. '!folders!nDEjXpJEFZD7allG' @ 0 : 0; will stop at (end)

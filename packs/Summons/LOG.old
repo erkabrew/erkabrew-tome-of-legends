@@ -1,7 +1,7 @@
-2026/07/19-21:07:12.549 4328 Recovering log #1301
-2026/07/19-21:07:12.551 4328 Delete type=0 #1301
-2026/07/19-21:07:12.551 4328 Delete type=3 #1299
-2026/07/20-08:29:30.472 4bfc Level-0 table #1306: started
-2026/07/20-08:29:30.472 4bfc Level-0 table #1306: 0 bytes OK
-2026/07/20-08:29:30.472 4bfc Delete type=0 #1304
-2026/07/20-08:29:30.474 4bfc Manual compaction at level-0 from '!actors!49zgRZ6FfUS99xxU' @ 72057594037927935 : 1 .. '!actors.items!49zgRZ6FfUS99xxU.yeOCdNLmgTUOT63X' @ 0 : 0; will stop at (end)
+2026/07/27-14:22:29.028 1468 Recovering log #1354
+2026/07/27-14:22:29.031 1468 Delete type=0 #1354
+2026/07/27-14:22:29.031 1468 Delete type=3 #1353
+2026/07/27-16:50:15.335 42f8 Level-0 table #1358: started
+2026/07/27-16:50:15.335 42f8 Level-0 table #1358: 0 bytes OK
+2026/07/27-16:50:15.336 42f8 Delete type=0 #1356
+2026/07/27-16:50:15.339 42f8 Manual compaction at level-0 from '!actors!49zgRZ6FfUS99xxU' @ 72057594037927935 : 1 .. '!actors.items!49zgRZ6FfUS99xxU.yeOCdNLmgTUOT63X' @ 0 : 0; will stop at (end)
