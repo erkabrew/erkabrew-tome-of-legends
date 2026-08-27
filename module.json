@@ -7,7 +7,7 @@
   "download": "https://github.com/erkabrew/erkabrew-tome-of-legends/archive/refs/heads/main.zip",
   "compatibility": {
     "minimum": "13",
-    "verified": "13"
+    "verified": "14"
   },
   "flags": {
     "canUpload": true
@@ -22,7 +22,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "Summons",
@@ -33,7 +34,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "Journal",
@@ -44,7 +46,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "Creatures",
@@ -55,7 +58,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "Races",
@@ -66,7 +70,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "flags": {}
     },
     {
       "name": "Items",
@@ -77,7 +82,8 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       },
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
   "packFolders": [
