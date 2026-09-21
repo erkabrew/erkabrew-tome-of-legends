@@ -1,7 +1,7 @@
 {
   "id": "erkabrew-tome-of-legends",
   "title": "Erkabrew Tome of Legends",
-  "version": "0.18.0",
+  "version": "0.19.0",
   "url": "https://github.com/erkabrew/erkabrew-tome-of-legends",
   "manifest": "https://raw.githubusercontent.com/erkabrew/erkabrew-tome-of-legends/refs/heads/main/module.json",
   "download": "https://github.com/erkabrew/erkabrew-tome-of-legends/archive/refs/heads/main.zip",
@@ -108,7 +108,10 @@
               "name": "Player's Options",
               "sorting": "a",
               "color": "#3c9f9c",
-              "packs": [],
+              "packs": [
+                "Races",
+                "Items"
+              ],
               "folders": []
             }
           ]
